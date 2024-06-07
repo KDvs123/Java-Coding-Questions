@@ -3,7 +3,7 @@ public class palindrome{
         String word="Mom";
         String newWord="";
         for(int i=word.length()-1;i>=0;i--){
-            newWord+=word.chatAt(i);
+            newWord+=word.charAt(i);
 
         }
 
