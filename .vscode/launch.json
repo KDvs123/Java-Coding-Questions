@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "Anagram",
+      "projectName": "Java-Coding-Questions_8e9440db"
+    },
+    {
+      "type": "java",
       "name": "factorial",
       "request": "launch",
       "mainClass": "factorial",
