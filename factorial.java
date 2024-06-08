@@ -1,7 +1,4 @@
-
-
 import java.util.Scanner;
-
 public class factorial {
     public static void main(String[] args) {
         // Create a Scanner object for reading input from the user
